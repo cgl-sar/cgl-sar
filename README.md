@@ -1,5 +1,7 @@
 ## Hi there 👋
+## 🏆 Certifications
 
+[![AI Skills Fest 2026](https://images.credly.com/images/841261a8-c2b3-4613-8898-d72b2a65d7ad/image.png)](https://www.credly.com/badges/60063546-80df-4ec4-96e9-8ed82683da96)
 <!--
 **cgl-sar/cgl-sar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
